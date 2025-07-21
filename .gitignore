@@ -1,0 +1,6 @@
+__pycache__/
+myenv/
+.streamlit/
+.devcontainer/
+cache/
+pages/docs/
