@@ -1,0 +1,11 @@
+streamlit
+streamlit_option_menu
+streamlit_pdf_viewer
+pymupdf4llm
+pdfplumber
+camelot-py[base]
+opencv-python-headless
+matplotlib
+openpyxl
+pandas
+numpy
